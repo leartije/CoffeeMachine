@@ -4,6 +4,7 @@ Simple Coffee Machine from JetBrain Academy
 Stage 5/6: Keep track of the supplies
 
 Description
+
 But just one action isn’t interesting. Let's improve the program so it can do multiple actions, one after another. 
 The program should repeatedly ask what the user wants to do. If the user types "buy", "fill" or "take", then just do what the program did in the previous step. 
 However, if the user wants to switch off the coffee machine, he should type "exit". 
@@ -22,6 +23,7 @@ Write a program that will work endlessly to make coffee for all interested perso
 Stage 6/6: Brush up your code
 
 Description
+
 Let's redesign our program and write a class that represents the coffee machine. 
 The class should have a method that takes a string as input. Every time the user inputs a line (a string) to the console, 
 the program invokes this method with one argument: the line that user input to the console. 
