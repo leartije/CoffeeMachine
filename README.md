@@ -47,5 +47,6 @@ For the latte, the coffee machine needs 350 ml of water, 75 ml of milk, and 20 g
 And for the cappuccino, the coffee machine needs 200 ml of water, 100 ml of milk, and 12 g of coffee. It costs $6.
 
 Instruction
+
 Refactor the program. Make it so that you can communicate with the coffee machine through a single method.
 
